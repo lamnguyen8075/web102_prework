@@ -31,7 +31,8 @@ GIF created with GIPHY
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This is a first time that I really implement the complete function using Javascript. I had hardtime figuring out some Javascript syntax and troubleshooting the bugs. Additionally, this Pre-work task allowed me to review my knowledge in HTML/CSS. 
+Besides the instruction provided from the Pre-work instruction, I spent decent time to read the Technical sources to learn more about Javascript syntax. I built up from the basic including conditional statement, looping, etc. I leveled up by reading more about the
 
 ## License
 
