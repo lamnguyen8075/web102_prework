@@ -23,9 +23,22 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+<<<<<<< HEAD
 ## Notes
 
 This is a first time that I really implement the complete function using Javascript. I had hardtime figuring out some Javascript syntax and troubleshooting the bugs.
+=======
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+GIF created with GIPHY
+![recording](https://user-images.githubusercontent.com/48584294/214794837-bd5c8683-319e-48e2-a0fd-e991d31b042a.gif)
+
+## Notes
+
+This is a first time that I really implement the complete function using Javascript. I had hardtime figuring out some Javascript syntax and troubleshooting the bugs. Additionally, this Pre-work task allowed me to review my knowledge in HTML/CSS. 
+Besides the instruction provided from the Pre-work instruction, I spent decent time to read the Technical sources to learn more about Javascript syntax. I built up from the basic including conditional statement, looping, etc. I leveled up by reading more about the
+>>>>>>> bd5d493a8b9a709b31db9205e8bab126975a63c6
 
 ## License
 
